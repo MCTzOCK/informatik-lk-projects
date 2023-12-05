@@ -1,8 +1,7 @@
-package com.bensiebert.informatik.projects.hanoi;
+package com.bensiebert.informatik.projects;
 
 import com.bensiebert.informatik.Argument;
 import com.bensiebert.informatik.Project;
-import sun.reflect.ReflectionFactory;
 
 public class Hanoi extends Project {
     public Hanoi() {
